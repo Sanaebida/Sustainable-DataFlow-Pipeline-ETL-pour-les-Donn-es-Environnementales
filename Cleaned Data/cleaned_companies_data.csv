@@ -1,0 +1,100 @@
+company_name,slug,company_url,industry,organization_type,tags,commitment_type,status,commitment_deadline,total_reported_emission_scope_1_2_3,revenue,hq_country,year,currency,emission_intensity
+3i group plc,3i,,"banks, diverse financials, insurance",Financial Institution,,standard,active,2025-04-30,6983.9,5804.04,United Kingdom,2023,usd,1.2
+3m,3m,3m.com,chemicals,Company,,standard,active,2025-11-30,15516000.0,34200.0,United States of America,2022,usd,453.68
+a.p. moller - maersk a/s,ap-moller-maersk,maersk.com,water transportation - water transportation,Company,omx120,ba1.5 option 2,target set,2022-02-28,79422000.0,51065.0,Denmark,2023,usd,1555.31
+aak,aak,,food and beverage processing,Company,omx120,ba1.5 option 1,target set,2022-12-31,4429357.0,4361.66,Sweden,2023,usd,1015.52
+ab anders löfberg,anders-lofberg,lofbergs.se,food and beverage processing,SME,,unknown,unknown,,133585.0,234.33,Sweden,2021,usd,570.07
+ab pictura,pictura,,"consumer durables, household and personal products",SME,,unknown,unknown,,8785.44,43.74,Sweden,2022,usd,200.85
+ab sagax,sagax,sagax.se,real estate,SME,omx120,unknown,unknown,,49546.0,404.83,Sweden,2023,usd,122.39
+ab skf,skf,skf.com,electrical equipment and machinery,Company,omx120,ba1.5 options 1 and 2,target set,2024-01-31,253740.0,9795.98,Sweden,2023,usd,25.9
+ab svenska bostäder,svenska-bostader,,real estate,,,unknown,unknown,,13421.0,326.18,Sweden,2023,usd,41.0
+abanca,abanca,,unknown,,,unknown,unknown,,3596.43,0.0,,2023,usd,0.0
+abb,abb,abb.com,electrical equipment and machinery,Company,omx120,ba1.5 option 2,active,2024-01-31,495134000.0,32235.0,Switzerland,2023,usd,15360.14
+abbott laboratories,abbott-laboratories,,unknown,,,unknown,unknown,,1006000.0,41510.0,,2022,usd,24.24
+abbvie,abbvie,abbvie.com,"pharmaceuticals, biotechnology and life sciences",Company,,ba1.5 option 1,target set,2023-06-30,528000.0,56740.0,United States of America,2022,usd,9.31
+academedia,academedia,,unknown,,,unknown,unknown,,28793.0,0.0,,2022,usd,0.0
+accedo broadband ab,accedo-broadband,accedo.tv,software and services,Company,,net-zero,removed,2024-02-29,4616504.0,0.0,Sweden,2022,usd,0.0
+accenture plc,accenture,,professional services,Company,,ba1.5 option 2,active,2024-01-31,400457.0,63140.0,Ireland,2022,usd,6.34
+acciona s.a.,acciona,,construction and engineering,Company,,ba1.5 options 1 and 2,target set,2024-01-31,202489.0,18423.53,Spain,2023,usd,10.99
+accor s.a.,accor,,"hotels, restaurants and leisure, and tourism services",Company,,ba1.5 option 2,removed,2024-01-31,3644000.0,5472.61,France,2023,usd,665.86
+addlife,addlife,,unknown,,,unknown,unknown,,4480.0,878.43,,2022,usd,5.1
+addtech ab,addtech,addtech.com,electrical equipment and machinery,Company,omx120,net-zero,active,2025-01-31,40822.0,1856.43,Sweden,2022,usd,21.99
+advania sverige ab,advania-sverige,,software and services,Company,,ba1.5 option 2,active,2024-01-31,135949.0,437.32,Sweden,2022,usd,310.87
+aflac,aflac,,unknown,,,unknown,unknown,,12323.0,22110.0,,2021,usd,0.56
+afry (åf pöyry),afry-af-poyry,,professional services,Company,,unknown,unknown,,14553.0,2544.03,Sweden,2023,usd,5.72
+agricultural bank of china,agricultural-bank-of-china,,unknown,,,unknown,unknown,,2153908.0,186140.0,,2022,usd,11.57
+ahold delhaize,ahold-delhaize,,unknown,,,ba1.5 option 2,active,2024-01-31,88879000.0,95953.68,,2023,usd,926.27
+ahréns åkeri ab,ahrens-akeri,ahrens-transport.se,ground transportation - trucking transportation,SME,,unknown,unknown,,5094.8,22.12,Sweden,2023,usd,230.3
+aia group limited,aia,,"banks, diverse financials, insurance",Financial Institution,,standard,target set,2023-11-30,42550.0,42600.0,"Hong Kong, China",2020,usd,1.0
+airbus,airbus,airbus.com,aerospace and defense,Company,,unknown,unknown,,495655000.0,61924.45,Netherlands,2022,usd,8004.19
+akademiska hus,akademiska-hus,,real estate,,,unknown,unknown,,31936.0,708.29,Sweden,2023,usd,45.0
+aktia bank,aktia-bank,,unknown,,,unknown,unknown,,216771.0,315.02,,2023,usd,688.11
+alfa laval ab,alfa-laval,alfalaval.com,electrical equipment and machinery,Company,omx120,unknown,unknown,,44575608.0,5997.29,Sweden,2023,usd,7432.62
+alibaba group,alibaba,,unknown,,,unknown,unknown,,13230000.0,128260.0,,2022,usd,103.15
+allianz,allianz,,unknown,,,standard,removed,2021-04-30,136448.0,98770.08,,2023,usd,1.38
+allstate,allstate,,unknown,,,unknown,unknown,,106467.0,44800.0,,2020,usd,2.38
+alma media,alma-media,almamedia.fi,media,Company,,net-zero,active,2024-01-31,14952.0,330.02,Finland,2023,usd,45.31
+alphabet inc.,alphabet,,software and services,Company,,standard,active,2024-09-30,15736600.0,282850.0,United States of America,2022,usd,55.64
+alstom,alstom,alstom.com,ground transportation - railroads transportation,Company,,unknown,unknown,,45246000.0,19070.81,France,2023,usd,2372.53
+altor equity partners ab,altor-equity-partners,altor.com,"banks, diverse financials, insurance",Financial Institution,,ba1.5 option 1,target set,2023-11-30,3640852.0,0.0,Sweden,2022,usd,0.0
+"altria group, inc.",altria,,tobacco,,,unknown,unknown,,5470861.0,20800.0,United States of America,2020,usd,263.02
+amazon,amazon,amazon.com,retailing,Company,,standard,removed,2022-06-30,71270000.0,524900.0,United States of America,2022,usd,135.78
+ambea,ambea,,unknown,,,unknown,unknown,,31283.0,1219.42,,2022,usd,25.65
+ambu,ambu,ambu.com,healthcare equipment and supplies,Company,omx120,ba1.5 option 1,target set,2023-07-31,19770.0,716.25,Denmark,2023,usd,27.6
+"america movil, s.a.b. de c.v.",america-movil,,telecommunication services,Company,,ba1.5 options 1 and 2,removed,2024-01-31,4884528.0,43570.0,Mexico,2022,usd,112.11
+american express company,american-express,,"specialized financial services, consumer finance, insurance brokerage firms",Company,,ba1.5 option 1,active,2023-09-30,128181.0,59290.0,United States of America,2022,usd,2.16
+american international group,american,,unknown,,,unknown,unknown,,588692.0,51420.0,,2022,usd,11.45
+amf fastigheter ab,amf-fastigheter,amffastigheter.se,real estate,Company,,unknown,unknown,,15475.0,328.64,Sweden,2023,usd,47.09
+amgen inc.,amgen,,"pharmaceuticals, biotechnology and life sciences",Company,,unknown,unknown,,3469000.0,25930.0,United States of America,2022,usd,133.78
+anglo american,anglo-american,,unknown,,,unknown,unknown,,13300000.0,35050.0,,2022,usd,379.46
+"anthem, inc.",anthem,,"healthcare providers and services, and healthcare technology",,,standard,removed,2022-10-31,1016071.0,121900.0,United States of America,2020,usd,8.34
+anz,anz,,unknown,,,unknown,unknown,,140514.0,28270.0,,2022,usd,4.97
+apotea,apotea,apotea.se,food and staples retailing,Company,,unknown,unknown,,4469.5,483.38,Sweden,2022,usd,9.25
+apoteket ab,apoteket,apoteket.se,retailing,Company,,ba1.5 option 1,target set,2023-06-30,427714.0,2194.36,Sweden,2023,usd,194.92
+"apple, inc.",apple,,technology hardware and equipment,,,ba1.5 option 1,target set,2023-04-30,20608200.0,385100.0,United States of America,2022,usd,53.51
+aq group,aq,,unknown,,,unknown,unknown,,39688.0,604.08,,2021,usd,65.7
+archer daniels midland,archer-daniels-midland,,unknown,,,unknown,unknown,,19640000.0,102280.0,,2022,usd,192.02
+arjo ab,arjo,,healthcare equipment and supplies,Company,,standard,target set,2024-11-30,74336.0,959.08,Sweden,2022,usd,77.51
+arla foods,arla-foods,arla.com,food and beverage processing,Company,,unknown,unknown,,18801000.0,14800.74,Denmark,2023,usd,1270.27
+arwidsro fastighets ab,arwidsro-fastighets,arwidsro.se,real estate,SME,,unknown,unknown,,4041.9,28.0,Sweden,2022,usd,144.37
+asker healthcare group ab,asker-healthcare,asker.com,healthcare equipment and supplies,Company,,standard,target set,2024-10-31,685602.0,1162.43,Sweden,2022,usd,589.8
+asml holding,asml-holding,,unknown,,,unknown,unknown,,11938100.0,25360.0,,2022,usd,470.75
+assa abloy ab,assa-abloy,assaabloy.com,technology hardware and equipment,Company,omx120,ba1.5 option 2,active,2024-01-31,16855584.0,13269.52,Sweden,2023,usd,1270.25
+astrazeneca,astrazeneca,astrazeneca.com,"pharmaceuticals, biotechnology and life sciences",Company,omx120,ba1.5 option 1,target set,2021-07-31,6937716.0,45811.0,United Kingdom,2023,usd,151.44
+atlas copco ab,atlas-copco,atlascopcogroup.com,electrical equipment and machinery,Company,omx120,unknown,unknown,,250640000.0,16282.22,Sweden,2023,usd,15393.48
+atrium ljungberg ab,atrium-ljungberg,,real estate,Company,,net-zero,active,2026-01-31,11752.0,304.87,Sweden,2023,usd,38.55
+attendo,attendo,,unknown,,,unknown,unknown,,146000.0,1421.62,,2021,usd,102.7
+autoliv inc,autoliv,autoliv.com,automobiles and components,Company,omx120,ba1.5 options 1 and 2,removed,2024-01-31,4128000.0,10475.0,Sweden,2023,usd,394.08
+avanza bank holding ab,avanza-bank-holding,avanza.se,"banks, diverse financials, insurance",Financial Institution,omx120,net-zero,active,2024-06-30,490.0,324.11,Sweden,2023,usd,1.51
+aviva plc,aviva,,"banks, diverse financials, insurance",Financial Institution,,ba1.5 options 1 and 2,extended,2023-03-31,34664.0,59000.0,United Kingdom,2020,usd,0.59
+axa group,axa,,"banks, diverse financials, insurance",Financial Institution,,standard,extended,2018-06-30,221606.0,111201.45,France,2023,usd,1.99
+axfood ab,axfood,axfood.com,food and staples retailing,Company,omx120,standard,removed,2023-12-31,2719922.0,7648.77,Sweden,2023,usd,355.6
+baidu,baidu,,unknown,,,unknown,unknown,,490840.0,15500.0,,2020,usd,31.67
+bama fresh cuts ab,bama-fresh-cuts,bama.se,food and beverage processing,Company,,unknown,unknown,,25323.0,55.15,Sweden,2022,usd,459.19
+banco bradesco,banco-bradesco,,unknown,,,unknown,unknown,,165284.0,56260.0,,2022,usd,2.94
+banco do brasil s.a.,banco-do-brasil,mziq.com,"banks, diverse financials, insurance",Financial Institution,,ba1.5 option 2,extended,2023-01-31,88646.0,53980.0,Brazil,2022,usd,1.64
+bank of america,bank-of-america,,unknown,,,unknown,unknown,,3725069.0,133840.0,,2022,usd,27.83
+bank of china,bank-of-china,,unknown,,,unknown,unknown,,49183.0,158230.0,,2022,usd,0.31
+bank of montreal,bank-of-montreal,,unknown,,,unknown,unknown,,95835.0,37560.0,,2022,usd,2.55
+bank of new york mellon,bank-of-new-york-mellon,,unknown,,,unknown,unknown,,108341.0,23050.0,,2022,usd,4.7
+bank of nova scotia,bank-of-nova-scotia,,unknown,,,unknown,unknown,,118258.0,30700.0,,2020,usd,3.85
+barclays,barclays,,unknown,,,unknown,unknown,,142800.0,30930.0,,2022,usd,4.62
+bavarian nordic,bavarian-nordic,,unknown,,omx120,unknown,unknown,,97682.0,1059.3,,2023,usd,92.21
+bayer ag,bayer,,"pharmaceuticals, biotechnology and life sciences",Company,,ba1.5 option 2,active,2024-01-31,13110000.0,53330.0,Germany,2022,usd,245.83
+bbva-banco bilbao vizcaya,bbva-banco-bilbao-vizcaya,,unknown,,,unknown,unknown,,277604.0,51940.0,,2022,usd,5.34
+becton dickinson,becton-dickinson,,unknown,,,unknown,unknown,,2971943.0,18200.0,,2020,usd,163.29
+beijer alma ab,beijer-alma,beijeralma.se,electrical equipment and machinery,Company,,standard,active,2025-11-30,154400.0,658.76,Sweden,2022,usd,234.38
+beijer ref ab,beijer-ref,beijerref.com,"trading companies and distributors, and commercial services and supplies",Company,omx120,standard,target set,2024-11-30,10738666.0,3031.75,Sweden,2023,usd,3542.07
+bertegruppen ab,bertegruppen,bertegruppen.se,food and beverage processing,SME,,unknown,unknown,,53765.0,102.74,Sweden,2022,usd,523.3
+betsson ab,betsson,,software and services,Company,,unknown,unknown,,8237.0,818.46,Sweden,2022,usd,10.06
+bhg group,bhg,wearebhg.com,"consumer durables, household and personal products",Company,,net-zero,removed,2024-01-31,28071.0,1334.34,Sweden,2022,usd,21.04
+bilia,bilia,,unknown,,,unknown,unknown,,212828.0,3387.33,,2022,usd,62.83
+billerud ab,billerud,billerud.com,"forest and paper products - forestry, timber, pulp and paper, rubber",Company,omx120,net-zero,active,2025-06-30,3873359.0,3887.42,Sweden,2023,usd,996.38
+biogaia ab,biogaia,,"pharmaceuticals, biotechnology and life sciences",SME,,unknown,unknown,,7569.5,107.63,Sweden,2022,usd,70.33
+björn borg,bjorn-borg,,unknown,,,unknown,unknown,,21286.0,82.5,,2022,usd,258.01
+blackrock,blackrock,,unknown,,,unknown,unknown,,285234.0,31210.0,,2021,usd,9.14
+bmw group,bmw,,automobiles and components,Company,,ba1.5 option 2,extended,2024-01-31,134699641.0,0.0,Germany,2023,usd,0.0
+boliden ab (publ),boliden,boliden.com,"mining - iron, aluminum, other metals",Company,omx120,standard,target set,2024-11-30,842000.0,7407.64,Sweden,2023,usd,113.67
+bonava ab,bonava,,homebuilding,Company,,unknown,unknown,,362217.0,1251.27,Sweden,2023,usd,289.48
+bonnier books,bonnier-books,bonnierbooks.com,media,Company,,unknown,unknown,,1328.48,734.08,Sweden,2022,usd,1.81
+boozt,boozt,,retailing,Company,,net-zero,active,2024-03-31,814.49,731.3,Sweden,2023,usd,1.11
